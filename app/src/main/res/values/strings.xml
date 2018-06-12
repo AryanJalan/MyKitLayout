@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MY KIT App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contentDescription"></string>
+    <string name="home_title">About KIT</string>
+    <string name="about_college">
+<p>        Since its inception in 2004,
+        Kanpur Institute of Technology has been successfully shouldering the monumental responsibility
+        of producing capable technocrats and managers.
+        Run by a team of visionary and motivated IIT alumni,
+        KIT is counted among the top rated technical institutes of North India.
+        Kanpur Institute of Technology runs B.Tech, B.Pharma, MBA, MCA and M.Tech courses.
+        The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow (formerly U.P.T.U., Lucknow)
+        with College Code 165.
+        The courses are approved by the All India Council for Technical Education (AICTE) and Pharmacy Council of India (PCI).
+        The institute is ISO 9001:2008 certified for it´s up to the mark quality systems and best practices in technical
+        and professional education.</p><br></br><p>
+        Kanpur Institute of Technology proudly boasts of a sprawling and lush green campus with elegant buildings and state-of-the-art infrastructure,
+        it has qualified, experienced and dedicated faculty for various courses, always ready to help the students in understanding the concepts
+        related their area of study. Kanpur Institute of Technology has a highly impressive placement track record, with students getting placed in
+        various MNCs at good annual packages. In the academic session 2015 – 2016 alone, more than 92 companies visited KIT campus to select more than
+        400 candidates of various courses of B.Tech, B.Pharma, MBA, MCA and M.Tech </p><br></br>
+        </string>
+    <string name="dashboard_my_attendance">My Attendance</string>
+    <string name="dashboard_attendance">My Attendance</string>
+
+    <!-->Fragment dashboard id's for components<-->
+    <string name="dash_att">Attendance</string>
+    <string name="dash_tt">Time table</string>
+    <string name="dash_calender">Calender</string>
+    <string name="dash_gallery">Gallery</string>
+    <string name="dash_subject">Subject</string>
+    <string name="dash_result">Result</string>
+</resources>
